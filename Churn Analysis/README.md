@@ -3,28 +3,31 @@ Customer Churn Analysis Dashboard
 
 This project presents an end-to-end data analysis and dashboard solution where raw data is first cleaned using Python and then transformed into a fully interactive web dashboard using AI (Claude).
 
-🎯 Objectives
-Clean and preprocess real-world messy data
-Analyze customer churn patterns
-Identify revenue trends and customer behavior
-Build an interactive business dashboard
-🔧 Data Cleaning (Python)
+🎯 Objectives.
+
+Clean and preprocess real-world messy data.
+Analyze customer churn patterns.
+Identify revenue trends and customer behavior.
+Build an interactive business dashboard.
+🔧 Data Cleaning (Python).
 
 Data preprocessing was performed using Python:
 
-Handled missing values (Age, Gender, Purchase_Date, etc.)
-Removed invalid entries (e.g., Age < 0 or > 100)
-Treated negative values in Purchase_Amount
-Converted data types (especially dates)
-Ensured dataset consistency and accuracy
-🤖 Dashboard Development
+Handled missing values (Age, Gender, Purchase_Date, etc.).
+Removed invalid entries (e.g., Age < 0 or > 100).
+Treated negative values in Purchase_Amount.
+Converted data types (especially dates).
+Ensured dataset consistency and accuracy.
+
+🤖 Dashboard Development.
 
 The dashboard was generated using Claude AI, based on structured prompts and requirements.
 
-Converted dataset into interactive dashboard
-Implemented business-level UI design
-Added dynamic filtering and visualization logic
-📁 Dataset Columns
+Converted dataset into interactive dashboard.
+Implemented business-level UI design.
+Added dynamic filtering and visualization logic.
+
+📁 Dataset Columns.
 
 Customer_ID
 Age
